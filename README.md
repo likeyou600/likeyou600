@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @likeyou600
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, 我是陳則閔  
+
+# 目前已完成專案:  
+[靜宜大學登山社器材租借系統](https://bakerychu.ddns.net/PUmountain "link")   [ [github](https://github.com/likeyou600/PUmountain "link") ]  
+
+[日本中部、關西 九天八夜](https://bakerychu.ddns.net/japan "link")   [ [github](https://github.com/likeyou600/japan "link") ]  
+
+[藝想世界](https://bakerychu.ddns.net/artworld/home.html "link")   [ [github](https://github.com/likeyou600/artworld "link") ]  
+ 
