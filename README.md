@@ -1,4 +1,5 @@
 - 👋 Hi I'm Ze-Min  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likeyou600&count_private=true)
 
 # WEB :  
 [靜宜大學登山社器材租借系統](https://bakerychu.ddns.net/PUmountain "link")   [ [github](https://github.com/likeyou600/PUmountain "link") ]  
