@@ -5,13 +5,13 @@
 
 
 # WEB :  
-[靜宜大學登山社器材租借系統](https://bakerychu.ddns.net/PUmountain "link")   [ [github](https://github.com/likeyou600/PUmountain "link") ]  
+[靜宜大學登山社器材租借系統](https://bakerychu.com/PUmountain "link")   [ [github](https://github.com/likeyou600/PUmountain "link") ]  
 
-[日本中部、關西 九天八夜](https://bakerychu.ddns.net/japan "link")   [ [github](https://github.com/likeyou600/japan "link") ]  
+[日本中部、關西 九天八夜](https://bakerychu.comt/japan "link")   [ [github](https://github.com/likeyou600/japan "link") ]  
 
-[藝想世界](https://bakerychu.ddns.net/artworld/home.html "link")   [ [github](https://github.com/likeyou600/artworld "link") ]  
+[藝想世界](https://bakerychu.com/artworld/home.html "link")   [ [github](https://github.com/likeyou600/artworld "link") ]  
 
-[公司形象網站](https://bakerychu.ddns.net/test/mtc/mtc.html "link")
+[公司形象網站](https://bakerychu.com/test/mtc/mtc.html "link")
  # APP :  
 遊戲_我要吃水果!  [APK載點](https://github.com/likeyou600/APP-fruit/raw/master/OUTPUT_APK/release/app-release.apk "link")   [ [github](https://github.com/likeyou600/APP-fruit "link") ]  
 
