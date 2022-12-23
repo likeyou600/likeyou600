@@ -14,7 +14,7 @@
 [公司形象網站](https://bakerychu.com/test/mtc/mtc.html "link") [ [github](https://github.com/likeyou600/mtc_web "link") ]  
 
 # 專題 :
-股票世界網站 [ [github](https://github.com/TWStockworld/stockworld_web "link") ]  
+[股票世界網站](https://stock.bakerychu.com/ "link") [ [github](https://github.com/TWStockworld/stockworld_web "link") ]  
 
 股票世界API [ [github](https://github.com/TWStockworld/stockworld_api "link") ]  
 
