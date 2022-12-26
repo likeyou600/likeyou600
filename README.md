@@ -7,7 +7,7 @@
 # WEB :  
 [靜宜大學登山社器材租借系統](https://bakerychu.com/PUmountain "link")   [ [github](https://github.com/likeyou600/PUmountain "link") ]  
 
-[日本中部、關西 九天八夜](https://bakerychu.comt/japan "link")   [ [github](https://github.com/likeyou600/japan "link") ]  
+[日本中部、關西 九天八夜](https://bakerychu.com/japan "link")   [ [github](https://github.com/likeyou600/japan "link") ]  
 
 [藝想世界](https://bakerychu.com/artworld/home.html "link")   [ [github](https://github.com/likeyou600/artworld "link") ]  
 
