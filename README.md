@@ -20,11 +20,11 @@
 仿ig社群系統 （flutter) [ [github](https://github.com/likeyou600/clothing_app "link") ]
 
 # 其他小項目 :
-程式社群交流網
+程式社群交流網 (學校教授案子)
 
 清潔人員自動排班系統
 
-工研院文檔系統初步設計
+工研院文檔系統 初步設計
 
 
  # code :
