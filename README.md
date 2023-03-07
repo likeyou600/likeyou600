@@ -21,6 +21,14 @@
  # APP :  
 遊戲_我要吃水果!  [APK載點](https://github.com/likeyou600/APP-fruit/raw/master/OUTPUT_APK/release/app-release.apk "link")   [ [github](https://github.com/likeyou600/APP-fruit "link") ]  
 
+# 其他功能 :
+程式社群交流網
+
+清潔人員自動排班系統
+
+工研院文檔系統初步設計
+
+
 仿ig社群系統 （flutter) [ [github](https://github.com/likeyou600/clothing_app "link") ]
 
  # code :
