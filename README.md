@@ -16,16 +16,16 @@
 
 股票世界API [ [github](https://github.com/TWStockworld/stockworld_api "link") ]  
 
+ # APP :  
+仿ig社群系統 （flutter) [ [github](https://github.com/likeyou600/clothing_app "link") ]
 
-# 其他功能 :
+# 其他小項目 :
 程式社群交流網
 
 清潔人員自動排班系統
 
 工研院文檔系統初步設計
 
-
-仿ig社群系統 （flutter) [ [github](https://github.com/likeyou600/clothing_app "link") ]
 
  # code :
 訂票系統(c) [ [github](https://github.com/likeyou600/C_HighSpeedRail "link") ]  
