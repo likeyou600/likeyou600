@@ -5,13 +5,13 @@
 # WEB :  
 [個人簡介](https://bakerychu.com/service "link")   [ [github](https://github.com/likeyou600/profilepage "link") ]  
 
-[靜宜大學登山社器材租借系統](https://bakerychu.com/PUmountain "link")   [ [github](https://github.com/likeyou600/PUmountain "link") ]  
+[靜宜大學登山社器材租借系統](https://pumountain.bakerychu.com "link")   [ [github](https://github.com/likeyou600/PUmountain "link") ]  
 
-[藝想世界](https://bakerychu.com/artworld/home.html "link")   [ [github](https://github.com/likeyou600/artworld "link") ]  
+[藝想世界](https://artworld.bakerychu.com/ "link")   [ [github](https://github.com/likeyou600/artworld "link") ]  
 
-[日本旅遊網](https://bakerychu.com/japan/ "link")   [ [github](https://github.com/likeyou600/japan "link") ]  
+[日本旅遊網](https://japan.bakerychu.com/ "link")   [ [github](https://github.com/likeyou600/japan "link") ]  
 
-[公司形象網站](https://bakerychu.com/test/mtc/mtc.html "link") [ [github](https://github.com/likeyou600/mtc_web "link") ]  
+[公司形象網站](https://test.bakerychu.com/mtc/mtc.html "link") [ [github](https://github.com/likeyou600/mtc_web "link") ]  
 
 Docker_WebServer  [ [github](https://github.com/likeyou600/Docker_WebServer "link") ]  
 # 程式交流網 :
